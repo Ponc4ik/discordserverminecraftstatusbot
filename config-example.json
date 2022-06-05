@@ -1,0 +1,11 @@
+{
+	"__comment__": "Rename this file config.json and configure the variables below",
+	"__comment2__": "You can also remove this line and the line above (__comment__ & __comment2__) it if you want to",
+	"prefix": "!",
+	"command": "ping",
+	"token": "OTgyNjc1NDA1NzU0NDY2MzU0.GWkHfS.vpRwuYdk5rbnlpudodF0aJ_iBzrt9CZ91GyYsU",
+	"defaultIP": "135.181.219.171:26101",
+	"serverName": "Minecraft Server",
+	"serverUrl": "https://zalupa.com",
+	"serverLogo": "pisak.com"
+}
